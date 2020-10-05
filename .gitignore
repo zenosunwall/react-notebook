@@ -1,0 +1,17 @@
+node_modules
+build/asset-manifest.json
+build/favicon.ico
+build/index.html
+build/manifest.json
+build/precache-manifest.939a4d858f8e3330cc546c74666f1d4b.js
+build/robots.txt
+build/service-worker.js
+build/static/css/main.5ecd60fb.chunk.css
+build/static/css/main.5ecd60fb.chunk.css.map
+build/static/js/2.6f55966d.chunk.js
+build/static/js/2.6f55966d.chunk.js.LICENSE.txt
+build/static/js/2.6f55966d.chunk.js.map
+build/static/js/main.f22af874.chunk.js
+build/static/js/main.f22af874.chunk.js.map
+build/static/js/runtime-main.ae21f84f.js
+build/static/js/runtime-main.ae21f84f.js.map
