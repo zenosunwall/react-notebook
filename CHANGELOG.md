@@ -1,10 +1,11 @@
 10/6/2020
-+ Edit Note functionality
-+ Delete Note functionality
-+ Styling
+### Added
+Edit Note functionality
+Delete Note functionality
+Styling
+Persistance
 
 10/5/2020
-+ Add Note functionality
-
-10/5/2020
-+ Initial commit react setup.
+### Added
+Add Note functionality
+Initial commit react setup.
