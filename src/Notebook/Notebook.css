@@ -1,0 +1,26 @@
+input, button, textarea {
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+input {
+    border: none;
+    width: 90%;
+}
+
+button {
+    border: none;
+    color: white;
+    background-color: blue;
+    width: 90%;
+}
+
+textarea {
+    width: 90%;
+    height: 400px;
+}
+
+ul {
+    padding: 0px;
+    list-style: lower-roman;
+}

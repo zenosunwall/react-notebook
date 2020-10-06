@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Notebook from './Notebook'
+import Notebook from './Notebook/Notebook'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
